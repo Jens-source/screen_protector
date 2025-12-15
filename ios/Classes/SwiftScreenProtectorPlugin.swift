@@ -1,6 +1,5 @@
 import Flutter
 import UIKit
-import ScreenProtectorKit
 
 public class SwiftScreenProtectorPlugin: NSObject, FlutterPlugin {
     private static var channel: FlutterMethodChannel? = nil
